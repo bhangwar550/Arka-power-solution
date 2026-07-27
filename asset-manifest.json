@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Arka-power-solution/static/css/main.34a43429.css",
+    "main.js": "/Arka-power-solution/static/js/main.6cd11393.js",
+    "index.html": "/Arka-power-solution/index.html",
+    "main.34a43429.css.map": "/Arka-power-solution/static/css/main.34a43429.css.map",
+    "main.6cd11393.js.map": "/Arka-power-solution/static/js/main.6cd11393.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34a43429.css",
+    "static/js/main.6cd11393.js"
+  ]
+}
